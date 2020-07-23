@@ -218,7 +218,7 @@ h1 {
   #title {
     background-color: #ff4c68;
     color: #fff;
-    height: 1200px;
+    height: 1700px;
     text-align: center;
   }
 
@@ -244,6 +244,27 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 4rem;
     line-height: 1.5;
+  }
+
+  .nav-text {
+    font-size: 2rem;
+    text-align: left;
+  }
+
+  .features-h1 {
+    font-size: 2rem;
+  }
+
+  .features-p {
+    font-size: 1.5rem;
+  }
+
+  .testimonials-em {
+    font-size: 2rem;
+  }
+
+  .press-img {
+    width: 30%;
   }
 }
 
@@ -251,7 +272,7 @@ h1 {
   #title {
     background-color: #ff4c68;
     color: #fff;
-    height: 1200px;
+    height: 1700px;
     text-align: center;
   }
 
@@ -277,6 +298,27 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 4rem;
     line-height: 1.5;
+  }
+
+  .nav-text {
+    font-size: 2rem;
+    text-align: left;
+  }
+
+  .features-h1 {
+    font-size: 2rem;
+  }
+
+  .features-p {
+    font-size: 1.5rem;
+  }
+
+  .testimonials-em {
+    font-size: 2rem;
+  }
+
+  .press-img {
+    width: 30%;
   }
 }
 
@@ -284,7 +326,7 @@ h1 {
   #title {
     background-color: #ff4c68;
     color: #fff;
-    height: 1200px;
+    height: 1700px;
     text-align: center;
   }
 
@@ -311,13 +353,34 @@ h1 {
     font-size: 4rem;
     line-height: 1.5;
   }
+
+  .nav-text {
+    font-size: 2rem;
+    text-align: left;
+  }
+
+  .features-h1 {
+    font-size: 2rem;
+  }
+
+  .features-p {
+    font-size: 1.5rem;
+  }
+
+  .testimonials-em {
+    font-size: 2rem;
+  }
+
+  .press-img {
+    width: 30%;
+  }
 }
 
 @media (max-width: 620px) {
   #title {
     background-color: #ff4c68;
     color: #fff;
-    height: 1200px;
+    height: 1700px;
     text-align: center;
   }
 
@@ -370,6 +433,6 @@ h1 {
   }
 
   .press-img {
-    width: 50%;
+    width: 30%;
   }
 }
